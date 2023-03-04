@@ -67,11 +67,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Limbo-Hacks/Limbo-hacks-website.git"
+    "url": "git+https://github.com/Abood2284/hackthon_web"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Limbo-Hacks/Limbo-hacks-website/issues"
+    "url": "https://github.com/Abood2284/hackthon_web/issues"
   }
 }
